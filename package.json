@@ -20,7 +20,7 @@
   ],
   "author": "root",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.16.4"
   }
 }
