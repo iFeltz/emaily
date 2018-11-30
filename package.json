@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "udemy course application",
+  "main": "app.js",
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "study",
+    "react",
+    "redux",
+    "mongodb",
+    "nodejs",
+    "express"
+  ],
+  "author": "root",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
